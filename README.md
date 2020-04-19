@@ -2,6 +2,13 @@
 ### Project Name: THE OPPENHEIMER PROJECT
 ##### Team Name: Citizen Disbursement System (CDS) Team
 
+
+<h4>This is a software system that has to support 3 features:</h4>
+
+ - [x] Enable Clerks to populate a list of working class heroes to the system
+ - [x] Enable Bookkeepers to retrieve the payable taxation relief for each working class
+ - [x] Enable Governor to dispense the money to each working class hero at her discretion
+
 **How to Run**
 ```cmd
  git clone "https://github.com/afsarali273/GovTechAssignment.git"
@@ -10,15 +17,6 @@
 
  mvn clean test
 ```
-
-
-<h4>This is a software system that has to support 3 features:</h4>
-
- -[x] Enable Clerks to populate a list of working class heroes to the system
- -[x] Enable Bookkeepers to retrieve the payable taxation relief for each working class
- -[x] Enable Governor to dispense the money to each working class hero at her discretion
-
-
 Below Test Scenarios being covered in this Project
 
    > ClerksActions.feature
@@ -73,4 +71,6 @@ Feature: Verify Governor actions on UI
 
     
 **Test Results**
-![Test Results](https://github.com/afsarali273/IamPlus_Assignment/blob/master/iamplus-assignment.png)
+![Test Results](https://github.com/afsarali273/GovTechAssignment/blob/master/Govtech_RunFromIDE.png)
+
+![Test Results](https://github.com/afsarali273/GovTechAssignment/blob/master/Govtech_report.png)
