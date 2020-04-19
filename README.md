@@ -75,3 +75,12 @@ Feature: Verify Governor actions on UI
 ![Test Results](https://github.com/afsarali273/GovTechAssignment/blob/master/Govtech_RunFromIDE.png)
 
 ![Test Results](https://github.com/afsarali273/GovTechAssignment/blob/master/Govtech_report.png)
+
+
+**Bug**
+
+Seems csv upload functionality is not working .
+Expected: "/calculator/uploadLargeFileForInsertionToDatabase" should upload csv file to Database
+Actual: Getting 500 response while uploading with CSV file 
+
+Same issue with UI as well.
