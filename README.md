@@ -13,7 +13,7 @@
 ```cmd
  git clone "https://github.com/afsarali273/GovTechAssignment.git"
 
- cd /path/to/project/iamplus_Assignment
+ cd /path/to/project/GovTechAssignment
 
  mvn clean test
 ```
